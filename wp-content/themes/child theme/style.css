@@ -1,0 +1,15 @@
+/*
+Theme Name: THOAIXUAN Child theme
+Description: This is a child theme for Flatsome Theme
+Author: THOAIXUAN
+Template: thoaixuan
+Version: 1.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+@import url("../thoaixuan/style.css");
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}
