@@ -12,10 +12,8 @@
 	<aside id="secondary" class="sidebar widget-area" role="complementary">
 		<!---->
 		<section class="widget widget_recent_entries">
-		<a href="" id="btn-effect">
-			<span class="border"></span>
-			<span><h2 class="widget-title">Tư vấn Online</h2></span>
-		</a>	
+		
+			<h2 class="widget-title">Tư vấn Online</h2>
 		<p>
 		<div class="html_after_addtocart" style="background-color: #fff1dd; padding: 8px; border: 1px dotted red; font-size: 19px">
 		<b style="color: red"></b>Hỗ trợ trực tuyến</b><br>
