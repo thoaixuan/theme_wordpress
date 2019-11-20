@@ -16,10 +16,12 @@
 			<h2 class="widget-title">Tư vấn Online</h2>
 		<p>
 		<div class="html_after_addtocart" style="background-color: #fff1dd; padding: 8px; border: 1px dotted red; font-size: 19px">
-		<b style="color: red"></b>Hỗ trợ trực tuyến</b><br>
-		<b>Hotline: <a href="0933496897">0933.496.897</a></b><br>
-		<b>Hotline: <a href="0933496897">0933.496.897</a></b><br>
-		<b>Hotline: <a href="0933496897">0933.496.897</a></b><br>
+		<b style="color: red"></b>
+		<b>Hotline: <a href="tel:0933496897" target="_blank">0933.496.897</a></b><br>
+		<b>Mail: <a href="mail: thoaixuan@yahoo.com" target="_blank">thoaixuan@yahoo.com</a></b><br>
+		<b>Facebook: <a href="https://fb.com/ithomnay" target="_blank">Facebook</a></b><br>
+		
+		
 		<span style="font-size:14px"></span>
 </div>
 		</p>	

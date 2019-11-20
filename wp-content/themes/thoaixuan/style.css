@@ -58,7 +58,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
  */
 
 html {
-	font-family: sans-serif;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
 }
@@ -112,6 +112,7 @@ b,
 strong {
 	font-weight: 700;
 }
+
 
 small {
 	font-size: 80%;
@@ -1060,7 +1061,7 @@ a:active {
 	border-top: 4px solid #1a1a1a;
 	border-bottom: 4px solid #1a1a1a;
 	clear: both;
-	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	font-family: Tahoma, Geneva, Verdana, sans-serif;
 	margin: 0 7.6923% 3.5em;
 }
 
@@ -1086,7 +1087,7 @@ a:active {
 
 .post-navigation .post-title {
 	display: inline;
-	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	font-family: Tahoma, Geneva, Verdana, sans-serif;
 	font-size: 23px;
 	font-size: 1.4375rem;
 	font-weight: 700;
@@ -1105,7 +1106,7 @@ a:active {
 
 .pagination {
 	border-top: 4px solid #1a1a1a;
-	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	font-family: Tahoma, Geneva, Verdana, sans-serif;
 	font-size: 19px;
 	font-size: 1.1875rem;
 	margin: 0 7.6923% 2.947368421em;
@@ -1248,7 +1249,7 @@ a:active {
 	border-top: 1px solid #d1d1d1;
 	border-bottom: 1px solid #d1d1d1;
 	color: #686868;
-	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	font-family: Tahoma, Geneva, Verdana, sans-serif;
 	font-size: 13px;
 	font-size: 0.8125rem;
 	line-height: 1.6153846154;
@@ -1424,7 +1425,7 @@ blockquote:after,
 }
 
 .widget .widget-title {
-	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	font-family: Tahoma, Geneva, Verdana, sans-serif;
 	font-size: 16px;
 	font-size: 1rem;
 	letter-spacing: 0.046875em;
@@ -1734,7 +1735,7 @@ blockquote:after,
 
 .post-thumbnail img {
 	display: block;
-	width: 100%;
+	width: auto;
 	height: 250px;
 }
 
@@ -3200,6 +3201,35 @@ p > video {
 		margin-bottom: 1.3125em;
 	}
 
+	/*404*/
+	.hit-the-floor {
+		color: #fff;
+		font-size: 12em;
+		font-weight: bold;
+		font-family: Helvetica;
+		text-shadow: 
+		  0 1px 0 #ccc, 
+		  0 2px 0 #c9c9c9, 
+		  0 3px 0 #bbb, 
+		  0 4px 0 #b9b9b9, 
+		  0 5px 0 #aaa, 
+		  0 6px 1px rgba(0,0,0,.1), 
+		  0 0 5px rgba(0,0,0,.1), 
+		  0 1px 3px rgba(0,0,0,.3), 
+		  0 3px 5px rgba(0,0,0,.2), 
+		  0 5px 10px rgba(0,0,0,.25), 
+		  0 10px 10px rgba(0,0,0,.2), 
+		  0 20px 20px rgba(0,0,0,.15);
+	  }
+	  
+	  .hit-the-floor {
+		text-align: center;
+	  }
+	  
+	  body {
+		background-color: #f1f1f1;
+	  }
+	/*----------------------*/
 	.widget p,
 	.widget address,
 	.widget hr,
@@ -3359,7 +3389,9 @@ p > video {
 	.textwidget h1 {
 		margin-top: 1.8260869565em;
 	}
-
+	.textwidget {
+		text-align: justify;
+	}
 	.textwidget h2 {
 		margin-top: 2.2105263158em;
 	}
