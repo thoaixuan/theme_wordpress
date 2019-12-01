@@ -1200,6 +1200,7 @@ a:active {
 	top: 0;
 	width: 52px;
 	z-index: 2;
+	border-radius: 50% 50%;
 }
 
 .pagination .prev:before,
@@ -1735,7 +1736,7 @@ blockquote:after,
 
 .post-thumbnail img {
 	display: block;
-	width: auto;
+	width: 840px;
 	height: 250px;
 }
 
