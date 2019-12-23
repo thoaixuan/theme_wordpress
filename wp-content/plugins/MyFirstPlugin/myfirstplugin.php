@@ -2,7 +2,7 @@
 /**
  * Plugin Name: My First Plugin Demo
  * Plugin URI: https://codethue.online
- * Description: Đây là plugin đầu tiên mà tôi viết dành riêng cho WordPress, chỉ để học tập mà thôi.
+ * Description: Đây là plugin đầu tiên mà tôi viết dành riêng cho WordPress, chỉ để học tập.
  * Version: 1.0 
  * Author: ThoaiXuan
  * Author URI: https://codethue.online 
