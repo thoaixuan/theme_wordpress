@@ -284,8 +284,9 @@ $instance = array();
 $instance['title'] = ( ! empty( $new_instance['title'] ) ) ? strip_tags( $new_instance['title'] ) : '';
 return $instance;
 }
-} // Class wpb_widget ends here
-/*end custome widget */
+}
+/*--------------------------------End custome widget */
+
 /*
 function thoaixuan_content_filter( $content ) {
     $find = 'hello';
